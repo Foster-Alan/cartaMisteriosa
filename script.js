@@ -2,7 +2,6 @@
 const btn = document.querySelector('#criar-carta');
 const inputText = document.querySelector('#carta-texto');
 const paranText = document.querySelector('#carta-gerada');
-// const span = document.getElementsByTagName('span');
 const textCount = document.querySelector('#carta-contador');
 
 const classGroup = [
